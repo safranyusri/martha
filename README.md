@@ -1,4 +1,6 @@
 # The Martha Toolbox
+[![DOI](https://zenodo.org/badge/422194582.svg)](https://zenodo.org/badge/latestdoi/422194582)
+
 Our ocean is in crisis, due to illegal, unreported, and unregulated fishing, pollution, coastal development, and climate change.
 Conservation practitioners on the other hand have to struggle with limited resources, such as funding, time, and personnel.
 They need to prioritize locations, configurations, and actions to support conservation. Therefore, in conservation planning and management, spatial prioritization become important.
